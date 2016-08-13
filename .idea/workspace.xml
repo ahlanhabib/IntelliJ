@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c9ec848b-6256-4992-8508-3b69fbbc7eb3" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/OutsideOfClassWork/bin/Loops/ForLoops/Array_And_Random_lowest.class" afterPath="$PROJECT_DIR$/OutsideOfClassWork/bin/Loops/ForLoops/Array_And_Random_lowest.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/OutsideOfClassWork/src/Loops/ForLoops/Array_And_Random_lowest.java" afterPath="$PROJECT_DIR$/OutsideOfClassWork/src/Loops/ForLoops/Array_And_Random_lowest.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/OutsideOfClassWork/src/Loops/ForLoops/FibonacciWithForLoops.java" afterPath="$PROJECT_DIR$/OutsideOfClassWork/src/Loops/ForLoops/FibonacciWithForLoops.java" />
@@ -69,6 +70,7 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="UPDATE_TYPE" value="MERGE" />
     <option name="ROOT_SYNC" value="DONT_SYNC" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="PUSH_TAGS">
@@ -909,7 +911,7 @@
       <workItem from="1470931051736" duration="18601000" />
       <workItem from="1470981086468" duration="2566000" />
       <workItem from="1471019226061" duration="2243000" />
-      <workItem from="1471026361103" duration="15793000" />
+      <workItem from="1471026361103" duration="15869000" />
     </task>
     <task id="LOCAL-00001" summary="01">
       <created>1470980033979</created>
@@ -939,11 +941,18 @@
       <option name="project" value="LOCAL" />
       <updated>1470984092198</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="new">
+      <created>1471066670692</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1471066670692</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="107520000" />
+    <option name="totallyTimeSpent" value="107596000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1029,7 +1038,8 @@
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <MESSAGE value="01" />
     <MESSAGE value="ist" />
-    <option name="LAST_COMMIT_MESSAGE" value="ist" />
+    <MESSAGE value="new" />
+    <option name="LAST_COMMIT_MESSAGE" value="new" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
