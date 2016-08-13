@@ -1,4 +1,4 @@
-package if_else_Loops;
+package if_else;
 
 import java.util.Scanner;
 
